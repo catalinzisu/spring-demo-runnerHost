@@ -1,7 +1,7 @@
 name: "PR workflow"
 
 on:
-  pull_reuquest:
+  pull_request:
     branches:
       - main
 
